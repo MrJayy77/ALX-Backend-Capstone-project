@@ -57,7 +57,7 @@ gunicorn ecommerce.wsgi
 
 🧑‍💻 Developer
 
-Author: Abraham KwesiJames
+Author: Abraham Kwesi James
 Institution: Klintaps University College
 Project: Django Ecommerce API
 Contact: abrahamkwesijames@gmail.com
